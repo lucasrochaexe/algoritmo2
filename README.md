@@ -70,10 +70,11 @@ As casas pertencentes ao caminho são marcadas com `*` no desenho do labirinto.
 Com o labirinto utilizado no projeto, os algoritmos produziram os seguintes
 resultados:
 
-| Busca | Movimentos | Casas visitadas |
-| DFS   |      31      |        36     |
-| BFS   |      31      |        43     |
-| Gulosa|      31      |        33     |
+| Busca  | Movimentos | Casas visitadas |
+| :---   | :--------: | :-------------: |
+| DFS    |     31     |       36        |
+| BFS    |     31     |       43        |
+| Gulosa |     31     |       33        |
 
 Neste exemplo, os três algoritmos encontraram um caminho com 31 movimentos.
 Isso não significa que todos possuem a mesma garantia: a BFS garante o menor
